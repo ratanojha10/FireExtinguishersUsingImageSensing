@@ -6,4 +6,4 @@ Hi, check out the following DIY-Project made by team 5 of section 13. We tried t
   Ratan Raj Ojha - (20CE30021)
   Monish Natarajan - (20CS30033)
   Pranay Pandey - (20PH20026)
-  
+Helpful contributions like improved algorithm, redundant lines and even addition of reader-friendly comments are more than welcome. Happy coding!
